@@ -145,7 +145,7 @@
   </tr>
   
   <tr>
-    <td>GitHub: git remote add origin https://github.com/lucasrmagalhaes/projeto.git</td>
+    <td>GitHub: git remote add origin https://github.com/cpellega/projeto.git</td>
     <td>Adiciona o repositório remoto no diretório local.</td>
   </tr>
   
